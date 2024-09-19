@@ -21,7 +21,7 @@ realizar uma entrega de valor ao cliente a cada sprint.
 
 <br>
 
-<div align= "center" >
+<div >
 
 ## Contatos:
 
