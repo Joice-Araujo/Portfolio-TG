@@ -8,7 +8,7 @@
 <div>
 
 <div>  
-<img src="/Img/perfil.jpg" alt="foto de perfil" width="200" height:"200" align="left" />
+<img src="/Img/perfil.jpg" alt="foto de perfil" width="200" height:"200" align="right" border-radius:"10px" />
 </div>
 
 Olá meu nome é Joice, sou de São josé dos Campos-SP, me formei em Biologia em 2020. Durante a graduação, participei de um estágio voluntário no Parque Vicentina Aranha, com foco em um viveiro de mudas de árvores e educação ambiental. Durante a pandemia percebi a influência cada vez maior da tecnologia no dia-a-dia o que me fez voltar aos estudos e ingressar no Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
