@@ -3,25 +3,29 @@
 # Joice Aparecida de Araújo
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<br>
 
 <div>
+
+<div>  
+<img src="/Img/perfil.jpg" alt="foto de perfil" width="200" height:"200" align="left" />
+</div>
 
 Olá meu nome é Joice, sou de São josé dos Campos-SP, me formei em Biologia em 2020. Durante a graduação, participei de um estágio voluntário no Parque Vicentina Aranha, com foco em um viveiro de mudas de árvores e educação ambiental. Durante a pandemia percebi a influência cada vez maior da tecnologia no dia-a-dia o que me fez voltar aos estudos e ingressar no Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
 
-Atualmente estou no 5º semestre e, ao longo dos semestres, venho desenvolvendo minhas habilidades não só na área de programação. Tive a oportunidade de assumir o cargo de Product Owner em projetos que seguiam a metodologia ágil Scrum. Nessa função, desenvolvi habilidades de comunicação eficaz tanto com os clientes, para entender e identificar suas reais necessidades, quanto com a equipe de desenvolvimento, garantindo que todos estivessem alinhados em relação às prioridades e expectativas. Além disso, aprendi a gerenciar e priorizar o backlog para realizar uma entrega de valor ao cliente a cada sprint.
+Atualmente estou no 5º semestre e, ao longo dos semestres, venho desenvolvendo minhas habilidades não só na área de programação. Tive a oportunidade de assumir o cargo de Product Owner em projetos que seguiam a metodologia ágil Scrum. Nessa função, desenvolvi habilidades de comunicação eficaz tanto com os clientes, para entender e identificar suas reais necessidades, quanto com a equipe de desenvolvimento, garantindo que todos estivessem alinhados em relação às prioridades e expectativas. Além disso, aprendi a gerenciar e priorizar o backlog para 
+realizar uma entrega de valor ao cliente a cada sprint.
+
 
 </div>
 
-<div>
-<img src="/Img/perfil.jpg" alt="foto de perfil"/>
-</div>
-</div>
-
+<br>
 
 ## Contatos:
 - **GitHub:** [Joice-Araujo](https://github.com/Joice-Araujo)
 - **LinkedIn:** [Joice Aparecida](https://www.linkedin.com/in/joice-aparecida-581226250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<br>
 
 ## Principais Conhecimentos:
 
@@ -47,6 +51,8 @@ Atualmente estou no 5º semestre e, ao longo dos semestres, venho desenvolvendo 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+
+<br>
 
 ## Meus Projetos:
 
