@@ -101,11 +101,23 @@ Como solução, minha equipe desenvolveu um sistema Web onde os alunos e/ou func
 >Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
 ### Contribuições pessoais
-Neste projeto fiz parte do time de desenvolvimento do front-end, onde utilizei HTML e CSS para o desenvolvimento das páginas web de acordo com o design desenvolvido. Fui responsável pelas páginas de computadores não logados e suas especificações.
+Neste projeto fiz parte do time de desenvolvimento do front-end, onde utilizei HTML e CSS para o desenvolvimento das páginas web de acordo com o design desenvolvido. Fui responsável pelas páginas de computadores não logados e suas especificações e as funções ligadas a ela.  
 
 ### Hard Skills
 Exercitei as seguintes hard skills nesse projeto:
-- Desenvolver páginas web em HTML5 e CSS3 (Sei fazer com autonomia).
+- Desenvolver páginas web em HTML5 e CSS3
+  
+  >Sei fazer com autonomia.
+
+- Desenvolvimento WEB (Utilizando SQL e Python)
+
+  > Conhecimento básico.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
+
+
 
 ### Soft Skills
 Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas.
