@@ -23,7 +23,7 @@ realizar uma entrega de valor ao cliente a cada sprint.
 
 <div >
 
-## Contatos:
+## Contatos
 
 <a href = "https://github.com/Joice-Araujo" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/joice-aparecida-581226250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -33,7 +33,16 @@ realizar uma entrega de valor ao cliente a cada sprint.
 
 <br>
 
-## Principais Conhecimentos:
+## :card_file_box: Cursos
+
+| Curso                              | Plataforma                                                                                                              | Status       |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :----------- |
+| Introduction to MongoDB            | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)         | Em Andamento |
+| Google Cloud Computing Foundations | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Em Andamento |
+
+<br>
+
+## :brain: Principais Conhecimentos
 
 **Linguagens**
 
@@ -60,7 +69,7 @@ realizar uma entrega de valor ao cliente a cada sprint.
 
 <br>
 
-## Meus Projetos:
+## Meus Projetos
 
 ###  🌱 Primeiro Semestre (2022-2)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antonio Egydio São Thiago Graça, que assumiu o papel de cliente final. O problema apresentado foi desenvolver um Sistema Web para Controle de Ordens de Serviço (SOS) para automatizar o processo de informação de equipamentos com mau funcionamento de Hardware e Software dos computadores da própria Fatec.
