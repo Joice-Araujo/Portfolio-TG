@@ -46,6 +46,8 @@ realizar uma entrega de valor ao cliente a cada sprint.
 
 **Linguagens**
 
+Desde o início dos meus estudos, desenvolvi um grande interesse pelo desenvolvimento front-end, ao mesmo tempo em que adquiri conhecimentos em tecnologias de back-end:
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -91,15 +93,15 @@ Como solução, minha equipe desenvolveu um sistema Web onde os alunos e/ou func
 
 - Python
 
->Utilizamos o Python como linguagem do back-end.
+>Utilizamos o Python como linguagem do back-end, devido à sua simplicidade e facilidade de aprendizado, especialmente para iniciantes. Permitindo que o usuário abra um chamado para reportar problemas em equipamentos com mau funcionamento.
 
 - Flask
 
->Utilizamos o Flask que é um framework web em Python para desenvolvimento web.
+>Utilizamos o Flask, um framework web em Python, para o desenvolvimento da aplicação e a comunicação com bancos de dados.
 
 - JavaScript
 
->Utilizamos JavaScript para a funcionalidade do layout editavel dos laboratórios.
+>Utilizamos JavaScript para a funcionalidade do layout editavel dos laboratórios, permitindo que os usuários ajustem a disposição dos equipamentos, além de poder alterar tamanho, posição e rotação. O layout ajuda a identificar visualmente os locais com defeitos de hardware ou software de forma interativa.
 
 - MySQL
 
