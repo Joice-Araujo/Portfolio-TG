@@ -308,7 +308,7 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento para puxar, clonar, salvar dados temporários, commitar através de linha de comando.
 
 ### Soft Skills
-Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integraçãofosse feita dentro do que era possível fazer e atendesse às necessidades do cliente.
+Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integração fosse feita dentro do que era possível e atendesse às necessidades do cliente.
 
 
 
