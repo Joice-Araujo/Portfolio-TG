@@ -13,8 +13,7 @@
 
 Olá meu nome é Joice, sou de São josé dos Campos-SP, me formei em Biologia na UNIP-SJC em 2020. Durante a graduação, participei de um estágio voluntário no Parque Vicentina Aranha, com foco em um viveiro de mudas de árvores e educação ambiental. Durante a pandemia percebi a influência cada vez maior da tecnologia no dia-a-dia o que me fez voltar aos estudos e ingressar no Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
 
-Atualmente estou no 5º semestre e a busca de um estágio. Ao longo dos semestres, venho desenvolvendo minhas habilidades não só na área de programação. Tive a oportunidade de assumir o cargo de Product Owner em projetos que seguiam a metodologia ágil Scrum. Nessa função, desenvolvi habilidades de comunicação eficaz tanto com os clientes, para entender e identificar suas reais necessidades, quanto com a equipe de desenvolvimento, garantindo que todos estivessem alinhados em relação às prioridades e expectativas. Além disso, aprendi a gerenciar e priorizar o backlog para 
-realizar uma entrega de valor ao cliente a cada sprint.
+Atualmente, estou no 5º semestre e em busca de oportunidades de estágio na área de desenvolvimento de software e tecnologia. Ao longo dos semestres, venho aprimorando minhas habilidades em programação, especialmente em front-end, além de desenvolver uma visão mais ampla de gerenciamento de projetos. Tive a oportunidade de atuar como Product Owner em projetos que seguiram a metodologia ágil Scrum, o que me proporcionou experiência prática em gestão de equipes, priorização de backlog e comunicação eficaz com clientes para identificar suas necessidades.
 
 
 </div>
