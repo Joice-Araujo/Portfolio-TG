@@ -13,7 +13,7 @@
 
 Olá meu nome é Joice, sou de São josé dos Campos-SP, me formei em Biologia na UNIP-SJC em 2020. Durante a graduação, participei de um estágio voluntário no Parque Vicentina Aranha, com foco em um viveiro de mudas de árvores e educação ambiental. Durante a pandemia percebi a influência cada vez maior da tecnologia no dia-a-dia o que me fez voltar aos estudos e ingressar no Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
 
-Atualmente estou no 5º semestre e, ao longo dos semestres, venho desenvolvendo minhas habilidades não só na área de programação. Tive a oportunidade de assumir o cargo de Product Owner em projetos que seguiam a metodologia ágil Scrum. Nessa função, desenvolvi habilidades de comunicação eficaz tanto com os clientes, para entender e identificar suas reais necessidades, quanto com a equipe de desenvolvimento, garantindo que todos estivessem alinhados em relação às prioridades e expectativas. Além disso, aprendi a gerenciar e priorizar o backlog para 
+Atualmente estou no 5º semestre e a busca de um estágio. Ao longo dos semestres, venho desenvolvendo minhas habilidades não só na área de programação. Tive a oportunidade de assumir o cargo de Product Owner em projetos que seguiam a metodologia ágil Scrum. Nessa função, desenvolvi habilidades de comunicação eficaz tanto com os clientes, para entender e identificar suas reais necessidades, quanto com a equipe de desenvolvimento, garantindo que todos estivessem alinhados em relação às prioridades e expectativas. Além disso, aprendi a gerenciar e priorizar o backlog para 
 realizar uma entrega de valor ao cliente a cada sprint.
 
 
@@ -131,9 +131,9 @@ Exercitei as seguintes hard skills nesse projeto:
 
 
 ### Soft Skills
-Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas.
+Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas. Para que isso fosse possível, realizei um curso online sobre o Scrum, e a Sprint Review me ajudava a entender os principais pontos de melhoria.
 
-Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades.
+Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, através de tutoriais na internet, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades, como por exemplo entender como funcionava um CRUD. 
 
 <br>
 
@@ -178,7 +178,7 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente, como encontrar um modo de adicionar um modal que fechasse sozinho depois de um tempo, permirtir que a tela da aplicação pudesse ser reposicinada em diferentes lugares na tela do computador, já que ao criar a aplicação ela fica estática, conseguir fazer o reaproveitamento de componentes como botões. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
+Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente, como encontrar um modo de adicionar um modal que fechasse sozinho depois de um tempo, permirtir que a tela da aplicação pudesse ser reposicionada em diferentes lugares na tela do computador, já que ao criar a aplicação ela fica estática, conseguir fazer o reaproveitamento de componentes como botões. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
 
 Tive que lidar com a adaptabilidade, especialmente após a saída de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança inesperada exigiu que a equipe se reorganizasse, o que me levou a  fortalecer minha capacidade de adaptação e colaboração.
 
@@ -188,7 +188,7 @@ Tive que lidar com a adaptabilidade, especialmente após a saída de um membro d
 
 O projeto desenvolvido no terceiro semestre teve como empresa parceira Ionic Health, que trouxe um desafio real enfrentado por eles, que é a necessidade de um sistema web para organização e documentação dos processos que são desenvolvidos em uma empresa de tecnologia voltada à saúde.
 
-Pensando nessa dificuldade em acompanhar e organizar cada projeto/processo foi desenvolvido uma plataforma web com 4 niveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
+Pensando nessa dificuldade em acompanhar e organizar cada projeto/processo foi desenvolvido uma plataforma web com 4 níveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
 
 >Link para a API do 3º semestre** [m-u-l-a-s/PROTON](https://github.com/m-u-l-a-s/PROTON)
 
@@ -283,7 +283,7 @@ Entendendo a dificuldade que enfrentavam, já que a organização era feita a pa
 
 ### Contribuições pessoais
 
-Neste projeto, fiz parte do time de desenvolvimento front-end e também assumi o papel de Product Owner (PO). Além de colaborar no desenvolvimento, contribuí diretamente para a criação do wireframe do protótipo, trabalhando em estreita parceria com o cliente para garantir que suas necessidades e expectativas fossem atendidas desde as fases iniciais do projeto.
+Neste projeto, fiz parte do time de desenvolvimento front-end e também assumi o papel de Product Owner (PO). Além de colaborar no desenvolvimento, contribuí diretamente para a criação do wireframe do protótipo, trabalhando em parceria com o cliente para garantir que suas necessidades e expectativas fossem atendidas desde as fases iniciais do projeto.
 
 ### Hard Skills
 Exercitei as seguintes hard skills nesse projeto:
@@ -308,7 +308,7 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento para puxar, clonar, salvar dados temporários, commitar através de linha de comando.
 
 ### Soft Skills
-Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integração, dentro do que era possível fazer, atendesse às necessidades do cliente.
+Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integraçãofosse feita dentro do que era possível fazer e atendesse às necessidades do cliente.
 
 
 
