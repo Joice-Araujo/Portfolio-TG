@@ -178,7 +178,7 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
+Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente, como encontrar um modo de adicionar um modal que fechasse sozinho depois de um tempo, permirtir que a tela da aplicação pudesse ser reposicinada em diferentes lugares na tela do computador, já que ao criar a aplicação ela fica estática, conseguir fazer o reaproveitamento de componentes como botões. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
 
 Tive que lidar com a adaptabilidade, especialmente após a saída de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança inesperada exigiu que a equipe se reorganizasse, o que me levou a  fortalecer minha capacidade de adaptação e colaboração.
 
