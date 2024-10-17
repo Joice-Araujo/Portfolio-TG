@@ -133,7 +133,7 @@ Exercitei as seguintes hard skills nesse projeto:
 ### Soft Skills
 Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas. Para que isso fosse possível, realizei um curso online sobre o Scrum, e a Sprint Review me ajudava a entender os principais pontos de melhoria.
 
-Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, através de tutoriais na internet, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades, como por exemplo entender como funcionava um CRUD. 
+Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, através de tutoriais na internet, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades, como por exemplo entender como funcionava um CRUD, para poder desenvolver a pagina com computadores não logados com suas especificações. 
 
 <br>
 
