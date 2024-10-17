@@ -130,9 +130,11 @@ Exercitei as seguintes hard skills nesse projeto:
 
 
 ### Soft Skills
-Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas. Para que isso fosse possível, realizei um curso online sobre o Scrum, e a Sprint Review me ajudava a entender os principais pontos de melhoria.
+**Comunicação:** Durante os projetos, precisei exercitar minhas habilidades de comunicação ao aplicar a metodologia ágil Scrum, o que me permitiu expor ideias de forma clara e objetiva nas reuniões de Sprint Review. Isso foi essencial para garantir o alinhamento com as necessidades do projeto e do grupo, facilitando a identificação e o entendimento das tarefas a serem desenvolvidas.
 
-Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, através de tutoriais na internet, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades, como por exemplo entender como funcionava um CRUD, para poder desenvolver a pagina com computadores não logados com suas especificações. 
+**Trabalho em equipe:** A colaboração com a equipe foi fundamental ao longo do projeto, especialmente na definição de prioridades e no desenvolvimento das tarefas, garantindo que todos estivessem na mesma página em relação aos objetivos da Sprint.
+
+**Proatividade e autonomia:** Fortaleci essas habilidades ao buscar, por conta própria, soluções para os desafios que surgiam, como ao estudar tutoriais para entender o funcionamento de um CRUD. Esse conhecimento foi crucial para desenvolver a página com computadores não logados, detalhando suas especificações. Quando encontrava dificuldades, como nesse exemplo, também aprendi a pedir ajuda de forma eficaz, garantindo que as entregas fossem concluídas conforme o esperado.
 
 <br>
 
@@ -177,9 +179,14 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente, como encontrar um modo de adicionar um modal que fechasse sozinho depois de um tempo, permirtir que a tela da aplicação pudesse ser reposicionada em diferentes lugares na tela do computador, já que ao criar a aplicação ela fica estática, conseguir fazer o reaproveitamento de componentes como botões. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
+#### Soft Skills
 
-Tive que lidar com a adaptabilidade, especialmente após a saída de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança inesperada exigiu que a equipe se reorganizasse, o que me levou a  fortalecer minha capacidade de adaptação e colaboração.
+**Resolução de problemas:** Durante o projeto, enfrentei desafios técnicos que exigiram que eu buscasse soluções de forma eficiente. Isso incluiu encontrar maneiras de adicionar um modal que fechasse automaticamente após um tempo e permitir que a aplicação pudesse ser reposicionada em diferentes partes da tela, ao invés de ficar estática. Também explorei formas de reaproveitar componentes, como botões, para otimizar o desenvolvimento.
+
+**Colaboração:** Auxiliei meus colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
+
+**Adaptabilidade:** Tive que lidar com a saída inesperada de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança exigiu uma reorganização do time e me levou a fortalecer minha capacidade de adaptação.
+
 
 <br>
 
@@ -239,11 +246,16 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-No primeiro projeto com um cliente externo, desenvolvi principalmente a habilidade de alinhamento de expectativas. O cliente tinha uma visão clara do que desejava, o que me permitiu colocar em prática e aprofundar meus conhecimentos em UI/UX. Um dos requisitos importantes era a implementação de sinalizações visuais e identificações rápidas, como o uso de cores para distinguir tarefas concluídas, em andamento e não iniciadas.
+#### Soft Skills
 
-Outro ponto crucial foi a acessibilidade, já que alguns integrantes da equipe do cliente tinha daltonismo. Isso nos fez ter um cuidado especial na escolha das cores, garantindo que todos os membros pudessem utilizar o sistema de forma eficiente.
+**Alinhamento de expectativas:** No primeiro projeto com um cliente externo, exercitei a habilidade de alinhar as expectativas do cliente. O cliente tinha uma visão clara do que desejava, o que me permitiu aprofundar meus conhecimentos em UI/UX. Um dos requisitos foi a implementação de sinalizações visuais, como o uso de cores para distinguir tarefas concluídas, em andamento e não iniciadas.
 
-Com as várias mudanças durante o projeto, também pude desenvolver minhas habilidades de flexibilidade e adaptabilidade, para atender novas demandas. Além disso, o projeto reforçou a importância do trabalho em equipe, pois enfrentamos dificuldades de comunicação com o cliente em alguns momentos, o que exigiu uma coordenação mais próxima dentro da equipe para garantir que os prazos e expectativas fossem cumpridos.
+**Empatia e Atenção aos Detalhes:** Um dos desafios foi garantir que o sistema fosse acessível aos integrantes da equipe do cliente com daltonismo. Isso exigiu cuidado especial na escolha das cores, garantindo que todos pudessem utilizar o sistema.
+
+**Resolução de conflitos:** Durante o projeto, houve momentos de dificuldade na comunicação com o cliente. Isso exigiu uma coordenação mais próxima dentro da equipe e reforçou a importância da resolução de conflitos para garantir que os prazos e expectativas fossem atendidos.
+
+**Colaboração:** Com as várias mudanças de escopo ao longo do projeto, o trabalho em equipe foi essencial. Precisamos nos reorganizar internamente para lidar com as novas demandas e garantir que todos estivessem alinhados para cumprir os prazos e entregas, como a mudança da página de anexo de evidências, que foi integrada a página de criação de tarefas, e deixou de ser uma página específica.
+
 
 <br>
 
@@ -308,6 +320,17 @@ Exercitei as seguintes hard skills nesse projeto:
 
 ### Soft Skills
 Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integração fosse feita dentro do que era possível e atendesse às necessidades do cliente.
+
+
+#### Soft Skills
+
+**Gestão de prioridades:** Como Product Owner (PO), fui responsável pela comunicação direta com o cliente e pela gestão do backlog, o que me permitiu desenvolver habilidades de gestão de prioridades, garantindo que as necessidades do cliente fossem atendidas e que o time estivesse focado nas tarefas mais importantes.
+
+**Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
+
+**Resolução de problemas:** Durante o projeto, foi essencial interpretar e esclarecer feedbacks, especialmente em relação à integração do sistema, para garantir que todos os detalhes fossem compreendidos e implementados de maneira eficaz, como  por exemplo que tipo de informações sobre a reunião era necessário estar disponível para uma pessoa convida para uma reunião, e uma pessoa que era responsável pela reunião.  
+
+
 
 
 
