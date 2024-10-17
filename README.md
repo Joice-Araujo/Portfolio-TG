@@ -179,7 +179,6 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-#### Soft Skills
 
 **Resolução de problemas:** Durante o projeto, enfrentei desafios técnicos que exigiram que eu buscasse soluções de forma eficiente. Isso incluiu encontrar maneiras de adicionar um modal que fechasse automaticamente após um tempo e permitir que a aplicação pudesse ser reposicionada em diferentes partes da tela, ao invés de ficar estática. Também explorei formas de reaproveitar componentes, como botões, para otimizar o desenvolvimento.
 
@@ -246,7 +245,6 @@ Exercitei as seguintes hard skills nesse projeto:
   >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
 
 ### Soft Skills
-#### Soft Skills
 
 **Alinhamento de expectativas:** No primeiro projeto com um cliente externo, exercitei a habilidade de alinhar as expectativas do cliente. O cliente tinha uma visão clara do que desejava, o que me permitiu aprofundar meus conhecimentos em UI/UX. Um dos requisitos foi a implementação de sinalizações visuais, como o uso de cores para distinguir tarefas concluídas, em andamento e não iniciadas.
 
@@ -317,9 +315,6 @@ Exercitei as seguintes hard skills nesse projeto:
 - Controle de versionamento (GIT e GITHUB)
 
   >  Conhecimento para puxar, clonar, salvar dados temporários, commitar através de linha de comando.
-
-### Soft Skills
-Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integração fosse feita dentro do que era possível e atendesse às necessidades do cliente.
 
 
 #### Soft Skills
