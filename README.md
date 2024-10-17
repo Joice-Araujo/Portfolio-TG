@@ -134,3 +134,219 @@ Exercitei as seguintes hard skills nesse projeto:
 Desenvolvi uma comunicação mais eficaz e o trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas.
 
 Também fortaleci minha proatividade e autonomia, buscando conhecimento para realizar minhas tarefas, pois foi meu primeiro contato com programação e pedindo ajuda quando encontrava dificuldades.
+
+<br>
+
+###  🌿 Segundo Semestre (2023-1)
+
+O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araujo Bertoti, que assumiu o papel de cliente final. O problema apresentado foi desenvolver um programa desktop em Java que automatizasse o controle de atividades avaliativas para professores de uma escola estadual.
+
+Como solução, minha equipe desenvolveu um programa com interface gráfica intuitiva, sendo fácil visualizar o desempenho dos alunos na disciplina. O programa permite o cadastro das turmas e seus respectivos alunos, possibilitando o registro dos instrumentos avaliativos da disciplina e o cálculo da média relacionada às atividades entregues pelas turmas e alunos.
+
+>Link para a API do 2º semestre** [BuzzTech-API/API_ADS_2SEMESTRE_2023.1](https://github.com/BuzzTech-API/API_ADS_2SEMESTRE_2023.1)
+
+#### Tecnologias utilizadas:
+
+- Java
+
+>Utilizamos a linguagem Java para o desenvolvimento do software desktoop.
+- Netbeans
+
+>Utilizado para o desenvolvimento do código de todo o projeto.
+- MySQL
+
+>Utilizamos o Mysql como banco de dados, para armazenar e gerenciar as informações da aplicação.
+- Figma
+
+>Utilizamos o Figma para criar o protótipo da interface, que foi apresentado ao cliente para validação antes do desenvolvimento.
+
+- GitHub
+
+>Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+### Contribuições pessoais
+Neste projeto fiz parte do time de desenvolvimento do front-end, No desenvolvimento da GUI, utilizei código Java, com a interface e método de drag and drop disponíveis no NetBeans. 
+
+### Hard Skills
+Exercitei as seguintes hard skills nesse projeto:
+- Desenvolvimento de telas de software utilizando a linguagem Java
+  
+  >Sei fazer com pesquisa e ajuda.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
+
+### Soft Skills
+Nesse projeto, além de desenvolver minhas habilidades com Java, busquei constantemente informações e conteúdos para realizar minhas tarefas de forma eficiente. Além disso, auxiliei colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
+
+Tive que lidar com a adaptabilidade, especialmente após a saída de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança inesperada exigiu que a equipe se reorganizasse, o que me levou a  fortalecer minha capacidade de adaptação e colaboração.
+
+<br>
+
+###  🌻 Terceiro Semestre (2023-2)
+
+O projeto desenvolvido no terceiro semestre teve como empresa parceira Ionic Health, que trouxe um desafio real enfrentado por eles, que é a necessidade de um sistema web para organização e documentação dos processos que são desenvolvidos em uma empresa de tecnologia voltada à saúde.
+
+Pensando nessa dificuldade em acompanhar e organizar cada projeto/processo foi desenvolvido uma plataforma web com 4 niveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
+
+>Link para a API do 3º semestre** [m-u-l-a-s/PROTON](https://github.com/m-u-l-a-s/PROTON)
+
+#### Tecnologias utilizadas:
+
+- React
+
+>Utilizamos React para o desenvolvimento da interface web, garantindo uma experiência de usuário dinâmica e interativa.
+- TypeScript
+
+>Utilizamos a linguagem TypeScript para o desenvolvimento da aplicação web no front-end.
+- JavaScript
+
+>Utilizamos JavaScript no back-end para gerenciar a lógica da aplicação e comunicação com o banco de dados.
+- Nodejs
+
+>Utilizamos Node.js como ambiente de execução no back-end, permitindo a interpretação e execução dos scripts.
+- PostgreSQL
+
+>Utilizamos PostgreSQL como banco de dados para armazenar e gerenciar as informações da aplicação.
+- Figma
+
+>Utilizamos o Figma para criar o protótipo da interface, que foi apresentado ao cliente para validação antes do desenvolvimento.
+
+- GitHub
+
+>Utilizamos GitHub para versionamento de código e colaboração em equipe, garantindo controle de versão e um fluxo de trabalho eficiente.
+
+### Contribuições pessoais
+
+Neste projeto, fiz parte do time de desenvolvimento do front-end, criando as páginas web de acordo com o design proposto pelo PO. Contribuí principalmente no desenvolvimento da dashboard para os C-levels e nos cards das etapas do projeto. 
+
+### Hard Skills
+Exercitei as seguintes hard skills nesse projeto:
+- Uso do React e TypeScript
+  
+  >Sei fazer com autonomia.
+
+- Uso do Nodejs
+
+  > Sei fazer com pesquisa e ajuda.
+
+- Uso do PostgreSQL
+
+  > Sei usar com pesquisa e ajuda.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar.
+
+### Soft Skills
+No primeiro projeto com um cliente externo, desenvolvi principalmente a habilidade de alinhamento de expectativas. O cliente tinha uma visão clara do que desejava, o que me permitiu colocar em prática e aprofundar meus conhecimentos em UI/UX. Um dos requisitos importantes era a implementação de sinalizações visuais e identificações rápidas, como o uso de cores para distinguir tarefas concluídas, em andamento e não iniciadas.
+
+Outro ponto crucial foi a acessibilidade, já que alguns integrantes da equipe do cliente tinha daltonismo. Isso nos fez ter um cuidado especial na escolha das cores, garantindo que todos os membros pudessem utilizar o sistema de forma eficiente.
+
+Com as várias mudanças durante o projeto, também pude desenvolver minhas habilidades de flexibilidade e adaptabilidade, para atender novas demandas. Além disso, o projeto reforçou a importância do trabalho em equipe, pois enfrentamos dificuldades de comunicação com o cliente em alguns momentos, o que exigiu uma coordenação mais próxima dentro da equipe para garantir que os prazos e expectativas fossem cumpridos.
+
+<br>
+
+###  🍁 Quarto Semestre (202-1)
+
+O projeto desenvolvido no quarto semestre teve como parceira a empresa SIATT, que propôs um portal web para o agendamento de reuniões presenciais e online, visando facilitar a organização da equipe em relação às salas disponíveis.
+
+Entendendo a dificuldade que enfrentavam, já que a organização era feita a partir de planilhas no Excel e apenas uma pessoa administrava tudo, desenvolvemos um portal web acessível a todos os colaboradores. O sistema possui um nível de administrador, além de níveis para colaboradores e gestores/diretoria, visto que algumas salas são reservadas exclusivamente para a diretoria. É possível realizar o agendamento de reuniões presenciais e online, com integração ao Zoom para facilitar as reuniões virtuais.
+
+>Link para a API do 4º semestre** [m-u-l-a-s/API-SIATT](https://github.com/m-u-l-a-s/API-SIATT)
+
+#### Tecnologias utilizadas:
+
+- React
+
+>Utilizamos React para o desenvolvimento da interface web, garantindo uma experiência de usuário dinâmica e interativa.
+- TypeScript
+
+>Utilizamos a linguagem TypeScript para o desenvolvimento da aplicação web no front-end e back-end.
+- NestJS
+
+>Utilizamos NestJS no back-end para estruturar e organizar a lógica da aplicação, facilitando a comunicação com o banco de dados de maneira eficiente e escalável.
+- Nodejs
+
+>Utilizamos Node.js como ambiente de execução no back-end, permitindo a interpretação e execução dos scripts.
+- MySQL
+
+>Utilizamos MySQL como banco de dados para armazenar e gerenciar as informações da aplicação.
+- Figma
+
+>Utilizamos o Figma para criar o protótipo da interface, que foi apresentado ao cliente para validação antes do desenvolvimento.
+
+- GitHub
+
+>Utilizamos GitHub para versionamento de código e colaboração em equipe, garantindo controle de versão e um fluxo de trabalho eficiente.
+
+### Contribuições pessoais
+
+Neste projeto, fiz parte do time de desenvolvimento front-end e também assumi o papel de Product Owner (PO). Além de colaborar no desenvolvimento, contribuí diretamente para a criação do wireframe do protótipo, trabalhando em estreita parceria com o cliente para garantir que suas necessidades e expectativas fossem atendidas desde as fases iniciais do projeto.
+
+### Hard Skills
+Exercitei as seguintes hard skills nesse projeto:
+- Uso do React e TypeScript
+  
+  >Sei fazer com autonomia.
+
+- Uso do Nodejs
+
+  > Sei fazer com pesquisa e ajuda.
+
+- Uso do MySQL
+
+  >Sei fazer com autonomia.
+
+- Uso do Figma
+
+  >Sei fazer com autonomia.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Conhecimento para puxar, clonar, salvar dados temporários, commitar através de linha de comando.
+
+### Soft Skills
+Como Product Owner (PO), assumi a responsabilidade pela comunicação direta com o cliente e a gestão do backlog, o que me permitiu desenvolver minhas habilidades de gestão de prioridades e garantir que as necessidades do cliente fossem atendidas. Tirei dúvidas da equipe com o cliente, alinhei expectativas, interpretei feedbacks e transformei as demandas em tarefas claras para o time. Um dos principais pontos de alinhamento de expectativas foi a integração com o Zoom, pois foi necessário entender como acontecia a gestão dessas reuniões, não só na empresa, mas também na própria plataforma, para que a integração, dentro do que era possível fazer, atendesse às necessidades do cliente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
