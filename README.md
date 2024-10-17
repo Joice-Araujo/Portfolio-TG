@@ -130,9 +130,8 @@ Exercitei as seguintes hard skills nesse projeto:
 
 
 ### Soft Skills
-**Comunicação:** Durante os projetos, precisei exercitar minhas habilidades de comunicação ao aplicar a metodologia ágil Scrum, o que me permitiu expor ideias de forma clara e objetiva nas reuniões de Sprint Review. Isso foi essencial para garantir o alinhamento com as necessidades do projeto e do grupo, facilitando a identificação e o entendimento das tarefas a serem desenvolvidas.
+**Comunicação:** Desenvolvi uma comunicação mais eficaz no trabalho em equipe, estudando e aplicando a metodologia ágil Scrum, o que me ajudou a expor ideias de forma mais clara e objetiva, além de estar alinhada com as necessidades do projeto e do grupo, conseguindo identificar e entender as tarefas a serem desenvolvidas. Para que isso fosse possível, realizei um curso online sobre o Scrum, e a Sprint Review me ajudava a entender os principais pontos de melhoria.
 
-**Trabalho em equipe:** A colaboração com a equipe foi fundamental ao longo do projeto, especialmente na definição de prioridades e no desenvolvimento das tarefas, garantindo que todos estivessem na mesma página em relação aos objetivos da Sprint.
 
 **Proatividade e autonomia:** Fortaleci essas habilidades ao buscar, por conta própria, soluções para os desafios que surgiam, como ao estudar tutoriais para entender o funcionamento de um CRUD. Esse conhecimento foi crucial para desenvolver a página com computadores não logados, detalhando suas especificações. Quando encontrava dificuldades, como nesse exemplo, também aprendi a pedir ajuda de forma eficaz, garantindo que as entregas fossem concluídas conforme o esperado.
 
@@ -323,7 +322,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 **Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
-**Resolução de problemas:** Durante o projeto, foi essencial interpretar e esclarecer feedbacks, especialmente em relação à integração do sistema, para garantir que todos os detalhes fossem compreendidos e implementados de maneira eficaz, como  por exemplo que tipo de informações sobre a reunião era necessário estar disponível para uma pessoa convida para uma reunião, e uma pessoa que era responsável pela reunião.  
+**Resolução de problemas:** Durante o projeto, foi essencial interpretar e esclarecer feedbacks, especialmente em relação à integração do sistema, para garantir que todos os detalhes fossem compreendidos e implementados de maneira eficaz, como  por exemplo que tipo de informações sobre a reunião era necessário estar disponível para uma pessoa convida para uma reunião, e uma pessoa que era responsável pela reunião. 
 
 
 
