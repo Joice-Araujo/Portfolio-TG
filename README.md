@@ -322,7 +322,6 @@ Exercitei as seguintes hard skills nesse projeto:
 
 **Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
-**Resolução de problemas:** Durante o projeto, foi essencial interpretar e esclarecer feedbacks, especialmente em relação à integração do sistema, para garantir que todos os detalhes fossem compreendidos e implementados de maneira eficaz, como  por exemplo que tipo de informações sobre a reunião era necessário estar disponível para uma pessoa convida para uma reunião, e uma pessoa que era responsável pela reunião. 
 
 
 
