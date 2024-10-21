@@ -192,7 +192,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 O projeto desenvolvido no terceiro semestre teve como empresa parceira Ionic Health, que trouxe um desafio real enfrentado por eles, que é a necessidade de um sistema web para organização e documentação dos processos que são desenvolvidos em uma empresa de tecnologia voltada à saúde.
 
-Pensando nessa dificuldade em acompanhar e organizar cada projeto/processo foi desenvolvido uma plataforma web com 4 níveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
+Pensando nessa dificuldade em acompanhar e organizar cada processo foi desenvolvido uma plataforma web com 4 níveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
 
 >Link para a API do 3º semestre** [m-u-l-a-s/PROTON](https://github.com/m-u-l-a-s/PROTON)
 
