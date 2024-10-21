@@ -165,7 +165,7 @@ Como solução, minha equipe desenvolveu um programa com interface gráfica intu
 >Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
 ### Contribuições pessoais
-Neste projeto fiz parte do time de desenvolvimento do front-end, No desenvolvimento da GUI, utilizei código Java, com a interface e método de drag and drop disponíveis no NetBeans. 
+Neste projeto fiz parte do time de desenvolvimento do front-end. No desenvolvimento da GUI, utilizei código Java, com a interface e método de drag and drop disponíveis no NetBeans. Atuei no desenvolvimento da dashbord e menu, cadastro de turmas, inclusão de pop-ups, visualização de atividades entregues.
 
 ### Hard Skills
 Exercitei as seguintes hard skills nesse projeto:
@@ -180,8 +180,6 @@ Exercitei as seguintes hard skills nesse projeto:
 ### Soft Skills
 
 **Resolução de problemas:** Durante o projeto, enfrentei desafios técnicos que exigiram que eu buscasse soluções de forma eficiente. Isso incluiu encontrar maneiras de adicionar um modal que fechasse automaticamente após um tempo e permitir que a aplicação pudesse ser reposicionada em diferentes partes da tela, ao invés de ficar estática. Também explorei formas de reaproveitar componentes, como botões, para otimizar o desenvolvimento.
-
-**Colaboração:** Auxiliei meus colegas que precisavam de suporte no desenvolvimento do front-end, promovendo um ambiente colaborativo.
 
 **Adaptabilidade:** Tive que lidar com a saída inesperada de um membro da equipe que estava envolvido no desenvolvimento do front-end. Essa mudança exigiu uma reorganização do time e me levou a fortalecer minha capacidade de adaptação.
 
