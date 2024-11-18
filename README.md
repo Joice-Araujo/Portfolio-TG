@@ -321,7 +321,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 #### Soft Skills
 
-**Gestão de prioridades:** Como Product Owner (PO), fui responsável pela comunicação direta com o cliente e pela gestão do backlog, o que me permitiu desenvolver habilidades de gestão de prioridades, garantindo que as necessidades do cliente fossem atendidas e que o time estivesse focado nas tarefas mais importantes.
+**Gestão de prioridades:** Como Product Owner (PO), fui responsável pela comunicação direta com o cliente e pela gestão do backlog, o que me permitiu desenvolver habilidades de gestão de prioridades. Durante a primeira entrega do projeto, onde ao identificar que a centralização do agendamento de reuniões nas mãos de uma única pessoa estava criando um gargalo. Por isso, priorizei a implementação de uma solução que permitisse que os próprios funcionários realizassem o agendamento das reuniões, tanto presenciais quanto online, além de visualizarem a disponibilidade das salas. Essa mudança não só otimizou o processo, mas também garantiu uma entrega de valor que atendia diretamente à principal dor do cliente.
 
 **Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks. Um momento importante foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
