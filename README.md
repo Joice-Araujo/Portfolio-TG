@@ -328,7 +328,7 @@ Exercitei as seguintes hard skills nesse projeto:
 **Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
 
-###  🍁 Quinto Semestre (2024-2)
+###  🌳 Quinto Semestre (2024-2)
 
 O projeto desenvolvido no quinto semestre foi realizado em parceria com a Kersys, uma empresa especializada em Gestão Florestal Inteligente. A Kersys oferece uma plataforma web e aplicativos voltados para a gestão digital de processos florestais e outros processos produtivos.
 
