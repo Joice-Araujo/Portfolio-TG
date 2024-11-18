@@ -139,7 +139,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 ###  🌿 Segundo Semestre (2023-1)
 
-O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araujo Bertoti, que assumiu o papel de cliente final. O problema apresentado foi desenvolver um programa desktop em Java que automatizasse o controle de atividades avaliativas para professores de uma escola estadual.
+No segundo semestre do curso, o projeto foi desenvolvido em parceria com a própria Fatec. Os requisitos foram definidos pelo professor Giuliano Araujo Bertoti, que atuou como cliente final. O problema identificado foi a necessidade de automatizar o controle de atividades avaliativas para professores de uma escola estadual. Atualmente, esse controle é realizado manualmente, com o uso de cadernetas, o que torna o processo trabalhoso e suscetível a erros. Essa situação dificulta o gerenciamento das atividades por turma e aluno, além de complicar o cálculo das notas atribuídas e o progresso de cada aluno.
 
 Como solução, minha equipe desenvolveu um programa com interface gráfica intuitiva, sendo fácil visualizar o desempenho dos alunos na disciplina. O programa permite o cadastro das turmas e seus respectivos alunos, possibilitando o registro dos instrumentos avaliativos da disciplina e o cálculo da média relacionada às atividades entregues pelas turmas e alunos.
 
@@ -188,7 +188,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 ###  🌻 Terceiro Semestre (2023-2)
 
-O projeto desenvolvido no terceiro semestre teve como empresa parceira Ionic Health, que trouxe um desafio real enfrentado por eles, que é a necessidade de um sistema web para organização e documentação dos processos que são desenvolvidos em uma empresa de tecnologia voltada à saúde.
+O projeto desenvolvido no terceiro semestre foi realizado em parceria com a Ionic Health, uma empresa de tecnologia voltada para a área da saúde. Especializada em automação e integração, a Ionic Health oferece soluções de tecnologias remotas e ferramentas de relatórios para o setor de saúde. O desafio proposto pela empresa foi solucionar a dificuldade em organizar e documentar os processos internos de forma eficiente. Esses processos, essenciais para o funcionamento de uma empresa de tecnologia voltada à saúde, eram gerenciados de maneira descentralizada, o que gerava inconsistências, perda de informações e aumento no tempo de resposta às demandas internas.
 
 Pensando nessa dificuldade em acompanhar e organizar cada processo foi desenvolvido uma plataforma web com 4 níveis de acesso: colaborador comum, que pode anexar pendências e evidências de um processo ao qual foi designado como responsável e acompanhar seu ciclo de vida; líderes de equipe que podem criar processos e designar etapas desses processos aos colaboradores ou outros líderes; C-levels, que poderão acompanhar como estão essas atividades através do dashboard e usuário Administrador que terá acesso a todos esses recursos, além de poder cadastrar novos usuários.
 
@@ -221,7 +221,11 @@ Pensando nessa dificuldade em acompanhar e organizar cada processo foi desenvolv
 
 ### Contribuições pessoais
 
-Neste projeto, fiz parte do time de desenvolvimento do front-end, criando as páginas web de acordo com o design proposto pelo PO. Contribuí principalmente no desenvolvimento da dashboard para os C-levels e nos cards das etapas do projeto. 
+Neste projeto, integrei a equipe de desenvolvimento front-end, sendo responsável por implementar as páginas web com base no design definido pelo Product Owner (PO). Minha principal contribuição foi o desenvolvimento da dashboard voltada para os C-levels e dos cards que representam as etapas do projeto.
+
+Utilizei a biblioteca Material UI e TypeScript para estilizar as páginas e implementar gráficos que exibem as métricas extraídas do back-end. Na dashboard, os C-levels podem acompanhar o status de cada etapa do projeto, incluindo etapas concluídas, atrasadas, pendentes e em aprovação.
+
+Nos cards das etapas, além de desenvolver a estilização, trabalhei para garantir a exibição correta das informações de cada processo. Também implementei a funcionalidade de navegação para uma página detalhada, onde os usuários podem visualizar informações específicas e realizar edições necessárias.
 
 ### Hard Skills
 Exercitei as seguintes hard skills nesse projeto:
@@ -254,9 +258,9 @@ Exercitei as seguintes hard skills nesse projeto:
 
 <br>
 
-###  🍁 Quarto Semestre (202-1)
+###  🍁 Quarto Semestre (2024-1)
 
-O projeto desenvolvido no quarto semestre teve como parceira a empresa SIATT, que propôs um portal web para o agendamento de reuniões presenciais e online, visando facilitar a organização da equipe em relação às salas disponíveis.
+O projeto desenvolvido no quarto semestre foi realizado em parceria com a SIATT, sua área de atuação são Sistemas de Defesa e Aeroespaciais, é especializada em Armamentos Inteligentes e na Integração de Sistemas de Alta Tecnologia. A empresa propôs um portal web para o agendamento de reuniões presenciais e online, visando facilitar a organização da equipe em relação às salas disponíveis.
 
 Entendendo a dificuldade que enfrentavam, já que a organização era feita a partir de planilhas no Excel e apenas uma pessoa administrava tudo, desenvolvemos um portal web acessível a todos os colaboradores. O sistema possui um nível de administrador, além de níveis para colaboradores e gestores/diretoria, visto que algumas salas são reservadas exclusivamente para a diretoria. É possível realizar o agendamento de reuniões presenciais e online, com integração ao Zoom para facilitar as reuniões virtuais.
 
@@ -289,7 +293,10 @@ Entendendo a dificuldade que enfrentavam, já que a organização era feita a pa
 
 ### Contribuições pessoais
 
-Neste projeto, fiz parte do time de desenvolvimento front-end e também assumi o papel de Product Owner (PO). Além de colaborar no desenvolvimento, contribuí diretamente para a criação do wireframe do protótipo, trabalhando em parceria com o cliente para garantir que suas necessidades e expectativas fossem atendidas desde as fases iniciais do projeto.
+Neste projeto, fiz parte do time de desenvolvimento front-end e também assumi o papel de Product Owner (PO). Contribuí diretamente para a criação do wireframe do protótipo utilizando o Figma, trabalhando em parceria com o cliente para garantir que suas necessidades e expectativas fossem atendidas desde as fases iniciais do projeto.
+
+ Além de colaborar para o desenvolvimento das páginas de cadastro e edição de usuários que era realizado a partir de um perfil administrador e a edição de reuniões. Minha atuação abrangeu tanto a implementação das funcionalidades quanto a estilização dessas páginas, onde utilizei TypeScript para as funcionalidades e Tailwind para a estilização.
+
 
 ### Hard Skills
 Exercitei as seguintes hard skills nesse projeto:
@@ -320,6 +327,89 @@ Exercitei as seguintes hard skills nesse projeto:
 
 **Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
+
+###  🍁 Quinto Semestre (2024-2)
+
+O projeto desenvolvido no quinto semestre foi realizado em parceria com a Kersys, uma empresa especializada em Gestão Florestal Inteligente. A Kersys oferece uma plataforma web e aplicativos voltados para a gestão digital de processos florestais e outros processos produtivos.
+
+O desafio proposto pela empresa foi a necessidade de um aplicativo que funcionasse mesmo em locais com conectividade limitada. O objetivo era permitir que os produtores monitorassem condições climáticas extremas, com foco em dados de pluviometria e temperatura, essenciais para a gestão eficiente de seus cultivos.
+
+Como solução, foi desenvolvido um aplicativo utilizando React Native, integrado a uma API de dados climáticos. O aplicativo permite que o usuário, após um cadastro simples, crie pontos de monitoramento informando latitude, longitude e um nome para cada ponto. Além disso, é possível configurar alertas para receber notificações quando os limites de temperatura ou pluviometria (máxima e mínima) forem ultrapassados.
+Cada ponto cadastrado possui uma dashboard personalizada, onde o usuário pode visualizar a temperatura média, máxima e mínima do dia, além da pluviometria. A dashboard também apresenta dois gráficos históricos: um para temperatura e outro para pluviometria. Para um acompanhamento mais detalhado, o aplicativo gera relatórios mensais com os dados registrados.
+Para superar o desafio da conectividade limitada, foi utilizado o banco de dados local WatermelonDB, garantindo que as funcionalidades essenciais estivessem disponíveis mesmo sem acesso à internet.   
+
+
+
+>Link para a API do 5º semestre** [m-u-l-a-s/API-SIATT](https://github.com/m-u-l-a-s/ClimaMonitor)
+
+#### Tecnologias utilizadas:
+
+- React-Native
+
+>Utilizado para o desenvolvimento da interface do aplicativo, garantindo uma experiência de usuário dinâmica e interativa.
+- TypeScript
+
+>Implementado tanto no front-end quanto no back-end, oferecendo maior segurança e tipagem durante o desenvolvimento.
+- NestJS
+
+>Adotado no back-end para estruturar e organizar a lógica da aplicação, proporcionando uma comunicação eficiente e escalável com o banco de dados.
+- WhatermelonDB
+
+>Utilizado como banco de dados local para garantir o funcionamento do aplicativo em locais com conectividade limitada.
+- MongoDB
+
+>Utilizado como banco de dados principal para armazenar e gerenciar as informações do aplicativo de forma eficiente.
+- Figma
+
+>Empregado na criação do protótipo da interface, permitindo a validação com o cliente antes do início do desenvolvimento.
+
+- GitHub
+
+>Utilizado para versionamento de código e colaboração em equipe, assegurando controle de versão e um fluxo de trabalho organizado.
+
+### Contribuições pessoais
+
+Neste projeto, atuei como desenvolvedora front-end e também assumi o papel de Product Owner (PO) pela segunda vez. Minhas responsabilidades como PO incluíram a gestão do backlog, o entendimento e a priorização das tarefas, além de manter um contato próximo com o cliente para esclarecer dúvidas e garantir que a equipe tivesse uma visão clara do produto.
+
+No início do projeto, desenvolvi o wireframe utilizando o Figma, alinhando o design às expectativas do cliente. Na parte técnica, minhas contribuições principais envolveram o uso de React Native e TypeScript:
+
+Configuração inicial do repositório front-end, incluindo a estruturação das rotas de navegação;
+Desenvolvimento de componentes, como os cards exibidos na Home e na Dashboard;
+Criação da página Home, com a renderização de cards representando os pontos de monitoramento cadastrados, cujos dados são obtidos do back-end;
+Implementação da página Dashboard, com cards exibindo informações da temperatura média e pluviometria, também fornecidas pelo back-end.
+Além disso, realizei a  implementação do gráfico de pluviometria, que exibe o histórico de chuvas em milímetros para cada ponto monitorado. Esse gráfico de barras apresenta a quantidade de chuva por semana, abrangendo as quatro semanas de um mês, e conta com um filtro por mês e data para personalizar a visualização dos dados.
+
+
+### Hard Skills
+Exercitei as seguintes hard skills nesse projeto:
+- Uso do React-Native
+  
+  >Sei fazer com autonomia.
+
+- Uso do MongoDB
+
+  > Sei fazer com pesquisa.
+
+- Uso do WhatermelonDB
+
+  >Sei fazer com pesquisa e ajuda.
+
+- Uso do Figma
+
+  >Sei fazer com autonomia.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Conhecimento para puxar, clonar, salvar dados temporários, commitar através de linha de comando.
+
+
+#### Soft Skills
+
+**Organização:** Durante o projeto, após a realização do kickoff, a equipe identificou que ainda havia dúvidas cruciais sobre o produto, especialmente relacionadas à funcionalidade de pluviometria. Ao perceber a necessidade, intermediei uma nova reunião com o cliente. Além de garantir o agendamento da reunião, organizei todo o processo para que fosse rápido e eficaz para ambas as partes. Durante a reunião, conduzimos a discussão de maneira objetiva e produtiva, esclarecendo as dúvidas sobre a API de clima e alinhando as expectativas sobre como apresentar os dados de pluviometria no aplicativo. Como resultado, a equipe conseguiu avançar no desenvolvimento com maior segurança e clareza, reduzindo retrabalho e garantindo a entrega ao cliente.
+
+**Adaptação**: Durante o desenvolvimento do projeto, enfrentamos um desafio técnico significativo que foi a  necessidade de migrar o banco de dados de CouchDB para o WatermelonDB. Essa mudança era essencial para atender à demanda por armazenamento local, mas gerou incompatibilidades com o uso do React-Native Expo no front-end.
+Assumi a responsabilidade pela migração no front-end, garantindo que todas as funcionalidades permanecessem operacionais, mesmo sem o suporte do Expo. Para isso, adaptei a estrutura do projeto e reconfigurei o ambiente de desenvolvimento. 
+Essa adaptação permitiu que a equipe mantivesse o cronograma de entregas, superando o desafio técnico e garantindo que o banco de dados local fosse implementado com sucesso, atendendo às necessidades do cliente e do produto final. 
 
 
 
