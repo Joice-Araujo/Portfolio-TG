@@ -249,11 +249,9 @@ Exercitei as seguintes hard skills nesse projeto:
 
 **Alinhamento de expectativas:** No primeiro projeto com um cliente externo, exercitei a habilidade de alinhar as expectativas do cliente. O cliente tinha uma visão clara do que desejava, o que me permitiu aprofundar meus conhecimentos em UI/UX. Um dos requisitos foi a implementação de sinalizações visuais, como o uso de cores para distinguir tarefas concluídas, em andamento e não iniciadas.
 
-**Empatia e Atenção aos Detalhes:** Um dos desafios foi garantir que o sistema fosse acessível aos integrantes da equipe do cliente com daltonismo. Isso exigiu cuidado especial na escolha das cores, garantindo que todos pudessem utilizar o sistema.
+**Empatia e Atenção aos Detalhes:** Identificamos que parte da equipe do cliente tinha daltonismo, o que poderia comprometer a usabilidade do sistema. Em resposta, ajustamos a paleta de cores, utilizando padrões que garantissem contraste adequado e uma experiência inclusiva para todos os usuários.
 
-**Resolução de conflitos:** Durante o projeto, houve momentos de dificuldade na comunicação com o cliente. Isso exigiu uma coordenação mais próxima dentro da equipe e reforçou a importância da resolução de conflitos para garantir que os prazos e expectativas fossem atendidos.
-
-**Colaboração:** Com as várias mudanças de escopo ao longo do projeto, o trabalho em equipe foi essencial. Precisamos nos reorganizar internamente para lidar com as novas demandas e garantir que todos estivessem alinhados para cumprir os prazos e entregas, como a mudança da página de anexo de evidências, que foi integrada a página de criação de tarefas, e deixou de ser uma página específica.
+**Colaboração:** Durante o projeto, houve uma mudança significativa no escopo: a página de anexos, inicialmente planejada como uma funcionalidade separada, precisou ser integrada à página de criação de tarefas. Essa alteração demandou um realinhamento interno para redistribuir as tarefas e ajustar as entregas ao novo fluxo. Em conjunto com a equipe, reorganizamos os prazos e garantimos a implementação sem comprometer a entrega final.
 
 
 <br>
