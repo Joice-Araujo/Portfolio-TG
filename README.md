@@ -323,7 +323,7 @@ Exercitei as seguintes hard skills nesse projeto:
 
 **Gestão de prioridades:** Como Product Owner (PO), fui responsável pela comunicação direta com o cliente e pela gestão do backlog, o que me permitiu desenvolver habilidades de gestão de prioridades, garantindo que as necessidades do cliente fossem atendidas e que o time estivesse focado nas tarefas mais importantes.
 
-**Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks para transformá-los em tarefas claras. Um exemplo foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
+**Comunicação e Alinhamento de expectativas:** Alinhei expectativas entre a equipe e o cliente, tirando dúvidas e interpretando feedbacks. Um momento importante foi a integração com o Zoom, onde foi preciso entender não apenas como a gestão de reuniões funcionava na empresa, mas também as funcionalidades da própria plataforma, para garantir que a solução estivesse dentro do que era possível e adequado às expectativas do cliente.
 
 
 ###  🌳 Quinto Semestre (2024-2)
