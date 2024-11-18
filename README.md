@@ -374,7 +374,7 @@ No início do projeto, desenvolvi o wireframe utilizando o Figma, alinhando o de
 Configuração inicial do repositório front-end, incluindo a estruturação das rotas de navegação;
 Desenvolvimento de componentes, como os cards exibidos na Home e na Dashboard;
 Criação da página Home, com a renderização de cards representando os pontos de monitoramento cadastrados, cujos dados são obtidos do back-end;
-Implementação da página Dashboard, com cards exibindo informações da temperatura média e pluviometria, também fornecidas pelo back-end.
+Implementação da página Dashboard, com cards exibindo informações da temperatura média e pluviometria, também fornecidas pelo back-end e exclusão de culturas.
 Além disso, realizei a  implementação do gráfico de pluviometria, que exibe o histórico de chuvas em milímetros para cada ponto monitorado. Esse gráfico de barras apresenta a quantidade de chuva por semana, abrangendo as quatro semanas de um mês, e conta com um filtro por mês e data para personalizar a visualização dos dados.
 
 
