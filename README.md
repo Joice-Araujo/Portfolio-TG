@@ -37,7 +37,7 @@ Atualmente, estou no 5º semestre e em busca de oportunidades de estágio na ár
 | Curso                              | Plataforma                                                                                                              | Status       |
 | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :----------- |
 | Introduction to MongoDB            | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)         | Concluído |
-| Google Cloud Computing Foundations | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Em Andamento |
+
 
 <br>
 
