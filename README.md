@@ -411,8 +411,108 @@ Essa adaptação permitiu que a equipe mantivesse o cronograma de entregas, supe
 
 
 
+### 🌼 Sexto Semestre (2025-1)
+
+O projeto desenvolvido no sexto semestre teve como cliente a Dom Rock AI, uma empresa especializada em Inteligência Artificial e análise de dados. Fundada com o propósito de transformar dados em valor estratégico, a Dom Rock atua nos segmentos corporativo e tecnológico oferecendo plataformas que integram machine learning, modelagem preditiva, automação de decisões e inteligência analítica.
+
+O desafio proposto pela empresa, em parceria com um pesquisador neurocientista, foi o desenvolvimento de uma aplicação web voltada para cuidadores de pessoas com Alzheimer. A proposta consistia em criar uma plataforma na qual esses cuidadores pudessem comparar e avaliar respostas fornecidas por diferentes LLMs (Large Language Models), com base em critérios objetivos e com justificativas. O objetivo era permitir a coleta de feedback humano supervisionado, fundamental para o aprimoramento contínuo desses modelos por meio de técnicas como RLHF (Reinforcement Learning from Human Feedback). Dessa forma, a aplicação serviria não apenas como um apoio direto aos cuidadores, mas também como uma ferramenta estratégica para o refinamento de modelos de IA voltados para contextos sensíveis e de alta responsabilidade emocional. 
+
+Como solução, foi desenvolvida uma aplicação web chamada AUXIA – Auxiliary AI Training, com backend em FastAPI (Python) e frontend em Vue.js. A plataforma permite que usuários autenticados enviem prompts simultaneamente para dois modelos de linguagem (LLMs) Gemini e DeepSeek, sendo que um deles utiliza a técnica de RAG (Retrieval-Augmented Generation) para enriquecer o prompt com informações de uma base vetorizada sobre Alzheimer de forma randomica. Após o envio, as respostas são geradas e o usuário deve avaliar cada resposta individualmente com base em critérios como aderência ao prompt, clareza, confiabilidade e empatia. Em seguida, é necessário indicar a resposta preferida com justificativa. O sistema valida se a escolha está coerente com as notas atribuídas e, após essa verificação, registra todas as informações em um banco de dados MongoDB, contribuindo para o refinamento dos modelos por meio de técnicas como RLHF (Reinforcement Learning from Human Feedback). A aplicação também conta com um sistema de autenticação via OAuth2, painel administrativo para gestão de usuários e permissões, além de rotas exclusivas para testes com e sem o uso de RAG, permitindo a comparação direta do impacto do enriquecimento contextual nas respostas geradas.
+
+>Link para a API do 6º semestre** [BuzzTech-API/API_ADS_6SEMESTE_2025.1](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1)
 
 
+#### Tecnologias utilizadas:
+
+- Python
+
+>Utilizado no backend para construção das rotas e integração com modelos de linguagem (LLMs). É uma linguagem versátil, com sintaxe clara, amplamente adotada em aplicações de inteligência artificial.
+- FastAPI
+
+>Framework moderno e de alto desempenho utilizado para desenvolvimento das APIs RESTful da aplicação, oferecendo validação automática, suporte a chamadas assíncronas e integração com documentação interativa.
+- Vue.js
+
+>Framework progressivo JavaScript adotado no frontend para construção da interface interativa da aplicação (SPA), proporcionando uma experiência fluida e reativa para o usuário.
+- MongoDB
+
+>Banco de dados NoSQL utilizado para persistência das avaliações, usuários e registros administrativos. Sua estrutura orientada a documentos facilita o armazenamento flexível dos dados.
+- ChromaDB
+
+>Banco de dados vetorial utilizado na implementação do RAG (Retrieval-Augmented Generation), permitindo enriquecer os prompts com contexto relevante extraído de uma base especializada sobre Alzheimer.
+- TypeScript
+
+>Utilizado no front-end oferecendo maior segurança e tipagem durante o desenvolvimento.
+- Figma
+
+>Empregado na criação do protótipo da interface, permitindo a validação com o cliente antes do início do desenvolvimento.
+
+- GitHub
+
+>Utilizado para versionamento de código e colaboração em equipe, assegurando controle de versão e um fluxo de trabalho organizado.
+- Jira
+
+>Ferramenta utilizada para organização das tarefas, acompanhamento das entregas e documentação das histórias de usuário, seguindo a metodologia ágil Scrum.
+
+
+### Contribuições pessoais
+
+Neste projeto, atuei como desenvolvedora front-end, com envolvimento também nas integrações com o back-end e na experiência do usuário (UX/UI). Fui responsável pela componentização de telas e pela construção de interfaces fundamentais da aplicação, além de implementar validações, feedbacks visuais e garantir a usabilidade do sistema.
+
+Minhas contribuições incluíram o desenvolvimento da página de envio de prompts para duas LLMs distintas, com integração completa via API e estruturação da interface de forma intuitiva. Também implementei a página de cadastro de usuários com validações específicas, como a verificação de e-mails duplicados, além de mensagens claras de erro para orientar o usuário.
+
+Participei da criação e refatoração da tela de escolha final, responsável por exibir as respostas geradas pelas LLMs, seus critérios de avaliação (como clareza, exatidão, aderência, etc.), as notas atribuídas e a escolha final com justificativa obrigatória. Essa tela passou por diversas evoluções de layout, nas quais fui responsável por adaptar o código às novas decisões de design, garantindo consistência visual e funcionalidade.
+
+De forma complementar, implementei melhorias na experiência do usuário com a inclusão de feedbacks visuais (como cores indicativas nas notas, mensagens de erro e ícones informativos), assegurando que o sistema fosse claro, acessível e agradável de usar, mesmo para usuários não técnicos.
+
+Também contribuí pontualmente no back-end, com tarefas como a exclusão de usuários, criação de teste e modelo de validação de usuários para garantir a consistência das regras de negócio.
+
+Além disso, participei ativamente das decisões de UX/UI, contribuindo com sugestões visuais e funcionais alinhadas às boas práticas de design e acessibilidade, e auxiliei na organização e documentação das interfaces usando Figma.
+
+
+### Hard Skills
+Exercitei as seguintes hard skills nesse projeto:
+- Uso do Python
+  
+  >Sei fazer com autonomia.
+
+- Uso do FastAPI
+
+  > Sei fazer com pesquisa.
+
+- Uso do Vue.js
+
+  > Sei fazer com autonomia.
+
+- Udo do TypeScript
+
+  > Sei fazer com autonoia.
+
+- Uso do MongoDB
+
+  > Sei fazer com pesquisa.
+
+- Uso do ChromaDB
+
+  >Sei fazer com pesquisa e ajuda.
+
+- Uso do Figma
+
+  >Sei fazer com autonomia.
+
+- Controle de versionamento (GIT e GITHUB)
+
+  >  Sei fazer com autonomia.
+
+- Uso do Jira
+
+  > Sei fazer com autonomia.
+
+  
+#### Soft Skills
+
+**Adaptação a Novos Contextos**: Neste projeto, iniciei minha jornada em uma nova equipe, o que exigiu uma rápida adaptação às suas dinâmicas, estilos de comunicação e formas de organização. Por ser meu primeiro trabalho com esse grupo, busquei desde o início criar um ambiente colaborativo, escutando ativamente, entendendo os fluxos já propostos e contribuindo com sugestões que valorizassem a experiência do usuário. Essa vivência fortaleceu minha capacidade de integração a novos times, exercitando empatia, flexibilidade e colaboração desde as fases iniciais do projeto.
+
+**Comunicação e Responsabilidade Coletiva**: Durante o projeto, a saída do master da equipe que exercia um papel central na organização afetou diretamente o desempenho do grupo, resultando na entrega de documentação e impacto na nota da primeira sprint. Esse cenário me despertou para a importância de manter uma comunicação mais ativa entre todos os membros, e acompanhar de forma mais constante o andamento coletivo das tarefas. A partir disso, passei a observar com mais atenção a equipe e a colaborar com sugestões e alinhamentos sempre que possível. Essa experiência fortaleceu meu senso de responsabilidade compartilhada e a consciência de que o bom andamento do projeto depende do engajamento e comunicação transparente entre todos os envolvidos. 
 
 
 
